@@ -1,0 +1,14 @@
+h2{
+     color: blue;
+     background-color: yellow;
+background-color: reb();
+/* r-red
+   g-green
+   b-blue
+   0-255
+}
+
+
+p{
+     background-color: rgb(240, 231, 219);
+}
